@@ -1,0 +1,6 @@
+django-ninja==0.16.0
+uvicorn==0.15.0
+loguru==0.5.3
+pytest==6.2.5
+pytest-django==4.4.0
+PyJWT==2.2.0
